@@ -1,3 +1,18 @@
+"""
+Hangman Game - Words Module
+
+This module contains the word list used in the Hangman game.
+The word list consists of 216 carefully selected words that are:
+- All lowercase
+- Varied in length and difficulty
+- Mostly common English words
+- Suitable for the game's difficulty level
+
+The words are stored in a list that can be randomly accessed during gameplay.
+"""
+
+# Comprehensive list of words for the game
+# Each word is lowercase and suitable for the game's difficulty level
 word_list = [
     'abruptly',
     'absurd',
